@@ -137,4 +137,6 @@ public class MazeGenerator : MonoBehaviour
     {
         return p.x >= 0 && p.y >= 0 && p.x < width && p.y < height;
     }
+
+// Hello.
 }
